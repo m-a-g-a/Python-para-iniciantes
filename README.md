@@ -2,7 +2,7 @@
 
 Exercícios e exemplos de códigos para iniciantes em Python
 
-Todo o material deste curso foi baseado e referenciado no curso "Python for Everybody" disponível em https://www.py4e.com e Licenciado por Creative Commons or Apache 2.0 license.
+Todo o material deste curso foi baseado e referenciado no curso "Python for Everybody" disponível em https://www.py4e.com e licenciado por Creative Commons or Apache 2.0 license.
 
 Links úteis:
 Anaconda - https://www.anaconda.com/products/individual
